@@ -1,22 +1,24 @@
 # Tic Tac Toe Web Application
 
-This single-page web application provides a fully functional Tic Tac Toe game playable by two players on the same device. It features an elegant, responsive design built with Tailwind CSS, and uses vanilla JavaScript for game logic.
+This web application implements a simple, responsive Tic Tac Toe game using modern web technologies including Tailwind CSS for styling and vanilla JavaScript for game logic. It features a clean user interface, turn indicator, win/draw detection, and reset functionality.
 
 ## Features
 
-- Two-player mode with turn indication
-- Win and draw detection
+- Two-player game mode
 - Responsive design suitable for desktops and mobile devices
-- Reset button to start a new game
+- Clear turn indicator
+- Win and draw detection
+- Easy reset button
 
 ## How to Run
 
-1. Download or clone this repository.
-2. Open `index.html` in your preferred web browser.
-3. Play the game by clicking on the cells to place your 'X' or 'O'.
+1. Save the `index.html` file to your local machine.
+2. Open `index.html` in any modern web browser.
+
+## Technologies
+
+- HTML5
+- Tailwind CSS
+- JavaScript (ES6+)
 
 Enjoy playing Tic Tac Toe!
-
----
-
-*This project is licensed under the MIT License.*
